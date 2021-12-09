@@ -1,6 +1,8 @@
 # Boas vindas ao projeto Movie Cards Library
 
-O projeto se trata de desenvolver uma biblioteca de cartões de filmes utilizando React. A biblioteca deverá possuir um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A aplicação pode ser vista pela imagem abaixo.
+[Clique para acessar o projeto](https://matheusaraujodev.github.io/Projeto-Movie-Cards-Library/)
+<br />
+O projeto se trata de desenvolver uma biblioteca de cartões de filmes utilizando React e seus componentes. A biblioteca deverá possuir um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A aplicação pode ser vista pela imagem abaixo.
 
 ![image](preview.png)
 
